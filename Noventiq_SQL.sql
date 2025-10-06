@@ -1,3 +1,6 @@
+CREATE DATABASE Noventiq_Proj;
+GO
+	
 USE [Noventiq_Proj]
 GO
 
@@ -58,5 +61,6 @@ VALUES ('Admin', 'Admin can read & edit');
 
 INSERT INTO Roles (RoleName, Description) 
 VALUES ('Student', 'Student read-only access');
+
 
 
