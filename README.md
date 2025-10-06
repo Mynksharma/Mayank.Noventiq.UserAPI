@@ -176,12 +176,28 @@ To set up the database for this project, follow the steps below:
 3. **Used DB server name-(localdb)\MSSQLLocalDB, if you have different server, make changes in ConnectionString inside appsettings.json.**
 ---
 
-## 📸 Screenshots
+## 📸 API Screenshots
 
-| Swagger Overview | Hindi Response Example |
-|------------------|-------------------------|
-| *Add Swagger Screenshot Here* | *Add Hindi Response Screenshot Here* |
+Below are example request and response screenshots for the major API endpoints in **Mayank.Noventiq.UserAPI**.
 
+| **Endpoint / Action** | **Screenshot** |
+|------------------------|----------------|
+| 🧾 **All Endpoints Overview** | ![All Endpoints](./screenshots/AllEndpoints.png) |
+| 🔑 **Login Request** | ![Login Request](./screenshots/LoginReq.png) |
+| 🔑 **Login Response** | ![Login Response](./screenshots/LoginResponse.png) |
+| 🧍‍♂️ **Register Request** | ![Register Request](./screenshots/RegisterRequest.png) |
+| 🧍‍♂️ **Register Response** | ![Register Response](./screenshots/RegisterResponse.png) |
+| 🧠 **Add Access Token Example** | ![Add Access Token](./screenshots/Add_Access_Token.png) |
+| 👤 **Get User By ID (Request)** | ![Get User By ID](./screenshots/GotUserById.png) |
+| 👤 **Get User By ID (Response)** | ![Get User By ID Response](./screenshots/GotUserByIDResponse.png) |
+| 🗑️ **Deleted User Response** | ![Deleted User](./screenshots/DeletedUser.png) |
 
-📸 **Example from Swagger:**
+---
+
+### 📝 Notes
+- These screenshots are captured directly from **Swagger UI** (`https://localhost:7085/swagger/index.html`).
+- They demonstrate successful JWT authentication, multilingual responses, and CRUD operations.
+- Use them as a visual reference while testing API.
+
+---
 
