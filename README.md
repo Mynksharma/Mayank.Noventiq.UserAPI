@@ -187,6 +187,7 @@ Below are example request and response screenshots for the major API endpoints i
 | 🔑 **Login Response** | ![Login Response](./screenshots/LoginResponse.png) |
 | 🧍‍♂️ **Register Request** | ![Register Request](./screenshots/RegisterRequest.png) |
 | 🧍‍♂️ **Register Response** | ![Register Response](./screenshots/RegisterResponse.png) |
+| 🧍‍♂️ **DB Data Sample** | ![DB Data Sample](./screenshots/DB_Data_Sample.png) |
 | 🧠 **Add Access Token Example** | ![Add Access Token](./screenshots/Add_Access_Token.png) |
 | 👤 **Get User By ID (Request)** | ![Get User By ID](./screenshots/GotUserById.png) |
 | 👤 **Get User By ID (Response)** | ![Get User By ID Response](./screenshots/GotUserByIDResponse.png) |
