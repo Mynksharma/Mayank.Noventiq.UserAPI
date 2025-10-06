@@ -167,6 +167,15 @@ Set the desired language using the `Accept-Language` header.
 
 ---
 
+## 🗄️ Database Setup (Running `Noventiq_SQL.sql`)
+
+To set up the database for this project, follow the steps below:
+
+1. **Open SQL Server Management Studio (SSMS)** or any SQL client tool of your choice.
+2. **Execute attached Novefntiq_SQL.sql file.**
+3. **Used DB server name-(localdb)\MSSQLLocalDB, if you have different server, make changes in ConnectionString inside appsettings.json.**
+---
+
 ## 📸 Screenshots
 
 | Swagger Overview | Hindi Response Example |
